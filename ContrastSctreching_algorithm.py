@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 30 16:14:38 2024
 
-@author: triton-MX
+@author: Triton Perea
 
 Aplication of Contrast Sctreching algorithm
 
