@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 25 13:35:39 2024
 
-@author: triton-MX
+@author: Triton Perea
 
 Aplication of Contrast Limited Adaptive Histogram Equalization (CLAHE) algorithm
 
